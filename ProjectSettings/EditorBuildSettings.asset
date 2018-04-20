@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/_Scenes/Intro.unity
+    guid: c1dc3e993bbb9d145a73c19f8a6b5acf
+  - enabled: 1
+    path: Assets/Game/_Scenes/Menu.unity
+    guid: e06a58c4a484d654e9e6621814c2d64e
+  - enabled: 1
+    path: Assets/Game/_Scenes/Dificuldades.unity
+    guid: 8ee0b72d9f8800f4b933d466af921fd1
+  - enabled: 1
+    path: Assets/Game/_Scenes/Game.unity
+    guid: 1621d09df9a8e864f84c10c1ca4069c9
+  - enabled: 1
+    path: Assets/Game/_Scenes/Desistir.unity
+    guid: e97f94dd0db506249bbe9a5477573040
+  - enabled: 1
+    path: Assets/Game/_Scenes/Tutorial.unity
+    guid: f11825a7af745174aaa9143996f14746
+  - enabled: 1
+    path: Assets/Game/_Scenes/Podium.unity
+    guid: 557557b837256e6479afcb1f4d8255b3
